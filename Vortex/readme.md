@@ -1,1 +1,1 @@
-"Checkpoints, training code, and framework code will be provided upon request to xuzhixiang210@gmail.com through you. All content is completely free, but we require assurance that you will not use it to generate harmful material!"
+"Checkpoints and framework code will be provided upon request to xuzhixiang210@gmail.com through you. All content is completely free, but we require assurance that you will not use it to generate harmful material!"
