@@ -1,3 +1,5 @@
+import torch
+from torch.utils.data import Dataset, DataLoader
 class DNASequenceDataset(Dataset):
     def __init__(self, file_path, tokenizer, max_length=256, stride=1, cache_capacity=10):
         self.tokenizer = tokenizer
